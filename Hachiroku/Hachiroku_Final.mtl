@@ -1,0 +1,52 @@
+# Blender MTL File: 'Hachiroku_Final.blend'
+# Material Count: 5
+
+newmtl Shiny_wheel
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/wheels.png
+
+newmtl not_shiny
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Textures/UV_base_colored.png
+
+newmtl shiny_material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.760000 0.760000 0.760000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures/UV_base_colored.png
+
+newmtl wheel_base
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Textures/wheels.png
+
+newmtl window
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Textures/UV_base_colored.png
